@@ -1,0 +1,48 @@
+// BASE
+@import "./base/variables";
+@import "./base/mixins";
+@import "./base/common";
+@import "./base/utils";
+@import "./base/сontainer";
+
+// LAYOUTS
+@import "./layouts/header/header";
+@import "./layouts/header/headerBurger";
+@import "./layouts/header/headerButton";
+@import "./layouts/header/headerContacts";
+@import "./layouts/header/headerIcon";
+@import "./layouts/header/headerNav";
+@import "./layouts/header/headerSocial";
+
+@import "./layouts/hero/hero";
+
+@import "./layouts/MainPage/statistic";
+@import "./layouts/MainPage/aboutClinic";
+@import "./layouts/MainPage/menegment";
+@import "./layouts/MainPage/info";
+@import "./layouts/MainPage/public";
+@import "./layouts/MainPage/fonds";
+
+
+
+
+
+
+
+@import "./layouts/depSwiper/swiper";
+@import "./layouts/departmens/departmens";
+@import "./layouts/comforts/\ сomforts";
+@import "./layouts/doctors/doctors";
+@import "./layouts/news/news";
+@import "./layouts/vacancy/vacancy";
+@import "./layouts/footer/fooret";
+
+// @import "./layouts/";
+
+
+
+
+
+
+// COMPONENTS
+@import "./components/modal";
